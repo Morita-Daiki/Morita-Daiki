@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Morita-Daiki
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning life science and systems engineering
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me tamo.d.tamo@gmail.com
 
 <!---
