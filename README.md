@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Morita-Daiki
-- 👀 I’m interested in robotics
-- 📫 How to reach me tamo.d.tamo@gmail.com
-
-<!---
-Morita-Daiki/Morita-Daiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morita-Daiki&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morita-Daiki&theme=transparent&layout=donut)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Morita-Daiki&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
